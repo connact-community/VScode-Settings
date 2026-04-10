@@ -17,7 +17,6 @@
 # Extensions
 
 <a href="https://marketplace.visualstudio.com/items?itemName=Armitxes.sqf" target="_blank" rel="noopener noreferrer"><img src="https://armitxes.gallerycdn.vsassets.io/extensions/armitxes/sqf/2.0.3/1552593647068/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="SQF Language">SQF Language</a><br>
-
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="_blank" rel="noopener noreferrer"><img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="Auto Rename Tag">Auto Rename Tag</a><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek" target="_blank" rel="noopener noreferrer"><img src="https://pranaygp.gallerycdn.vsassets.io/extensions/pranaygp/vscode-css-peek/4.4.3/1741158075184/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="CSS Peek">CSS Peek</a><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019" target="_blank" rel="noopener noreferrer"><img src="https://jeff-hykin.gallerycdn.vsassets.io/extensions/jeff-hykin/polacode-2019/0.6.2/1750079879450/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="Polacode-2025">Polacode-2025</a><br>
